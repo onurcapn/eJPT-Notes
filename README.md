@@ -42,14 +42,18 @@ Ağ tarama aracı Nmap'in tüm kritik detayları ve soru-cevapları:
 * 🐍 Nmap Scripting Engine (NSE) kullanımı ve script veritabanı araması
 * 📝 TryHackMe Nmap Odası (Görev 14) soru-cevap anahtarı
 
-### 5. [5.Metasploit.md](5.Metasploit.md) 🛠️
-Metasploit Framework modülleri, konsol komutları ve oturum yönetimi:
+### 5. [5.Metasploit Introduction.md](5.Metasploit%20Introduction.md) 🛠️
+Metasploit Framework temel modülleri ve konsol komutları:
 * 📋 Temel Terimler (Vulnerability, Exploit, Payload)
 * 📦 Modül Türleri (Auxiliary, Exploits, Payloads (Singles vs Staged), Post, Encoders, Evasion)
 * 💻 Msfconsole komut seti (`search`, `use`, `info`, `show options`, `back`)
 * ⚙️ Değişken Tanımlama (`set`, `setg`, `unset`, `unsetg`, `unset all`)
-* ⚡ Exploit Çalıştırma ve Arka Plana Alma (`exploit -z`, `run`)
-* 📞 Oturum Yönetimi (`sessions`, `background`, `sessions -i <ID>`)
+
+### 6. [6.Metasploit: Exploitation.md](6.Metasploit:%20Exploitation.md) ⚡
+Metasploit istismar (exploitation) aşaması notları (taslak).
+
+### 7. [7.Metasploit: Meterpreter.md](7.Metasploit:%20Meterpreter.md) 📞
+Metasploit Meterpreter oturumu kullanımı notları (taslak).
 
 ---
 
