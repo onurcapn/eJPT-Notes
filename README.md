@@ -55,6 +55,16 @@ Metasploit istismar (exploitation) aşaması notları (taslak).
 ### 7. [7.Metasploit: Meterpreter.md](7.Metasploit:%20Meterpreter.md) 📞
 Metasploit Meterpreter oturumu kullanımı notları (taslak).
 
+### 8. [8.Metasploit Sınav Soruları & Pratik Senaryolar.md](8.Metasploit%20S%C4%B1nav%20Sorular%C4%B1%20%26%20Pratik%20Senaryolar.md) 🏆
+eJPT sınavında Metasploit ile ilgili çıkmış ve çıkması muhtemel tüm soru tipleri:
+* 🅰️ Temel MSF Kullanımı, Tarama & Enumeration, Exploitation soruları
+* 🅳 Meterpreter Post-Exploitation, Hash Çalma, Kimlik Bilgisi soruları
+* 🅵 Msfvenom Payload Üretimi ve Multi/Handler yapılandırması
+* 🅶 Pivotlama, Autoroute, SOCKS Proxy ve Port Forwarding senaryoları
+* 🅷 Yetki Yükseltme (getsystem, UAC Bypass, Local Exploit Suggester)
+* 🅹 Brute Force (SMB/SSH/FTP Login) ve Web App Exploitation soruları
+* 🅻 Tam Zincir (Full Chain) senaryolar: Dış ağdan iç ağa sızma, Pass-the-Hash
+
 ---
 
 ## 💡 Neden Bu Notlar?
